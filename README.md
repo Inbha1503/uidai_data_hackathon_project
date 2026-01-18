@@ -25,6 +25,10 @@ The analysis was developed as part of a data analytics hackathon to uncover demo
 - The 18+ age group accounts for the majority of enrolments
 - Seasonal and monthly enrolment patterns were observed
 - District-level disparities indicate potential access gaps
+<img width="1268" height="727" alt="image" src="https://github.com/user-attachments/assets/6d9033f6-e78a-46d9-b937-80097b3dfcb5" />
+<img width="1263" height="725" alt="image" src="https://github.com/user-attachments/assets/642ede18-eabb-4ae2-bec3-f214fea38c25" />
+<img width="1268" height="729" alt="image" src="https://github.com/user-attachments/assets/e0b95974-cc09-4ac9-928f-47b25e11819a" />
+<img width="1266" height="727" alt="image" src="https://github.com/user-attachments/assets/5aac2db0-ac52-4073-8210-cc34fa630311" />
 
 ## Tools Used
 Python, Pandas, NumPy, Power BI, Google Colab
